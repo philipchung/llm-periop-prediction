@@ -1,0 +1,9 @@
+,ASA Physical Status,PACU Phase 1 Duration,Hospital Admission,Hospital Duration,ICU Admission,ICU Duration,Unplanned Admission,Hospital Mortality
+ASA Physical Status,1000,19,20,28,22,22,25,57
+PACU Phase 1 Duration,19,1000,26,47,32,32,23,7
+Hospital Admission,20,26,1000,10,16,16,17,4
+Hospital Duration,28,47,10,1000,47,47,25,12
+ICU Admission,22,32,16,47,1000,1000,24,26
+ICU Duration,22,32,16,47,1000,1000,24,26
+Unplanned Admission,25,23,17,25,24,24,949,10
+Hospital Mortality,57,7,4,12,26,26,10,576

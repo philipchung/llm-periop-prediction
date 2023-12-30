@@ -1,0 +1,18 @@
+NoteName,Dentist,Fellow,Nurse Anesthetist,Nurse Practitioner,Osteopath,Pharmacist,Physician,Physician Assistant,Podiatrist,Resident
+Anesthesia Preprocedure Evaluation,--,47,179,54,--,--,3346,83,--,418
+Assessment & Plan Note,--,30,--,21,--,--,305,4,--,14
+Brief Op Note,--,415,--,4,--,--,535,8,--,1014
+Brief Procedure Note,1,280,--,33,--,--,280,23,--,464
+Consults,3,1056,1,360,--,1,2601,666,23,5842
+Discharge Summary,--,13,--,125,--,--,222,116,--,277
+ED Procedure Notes,--,13,--,20,--,--,521,12,--,550
+ED Provider Notes,--,70,--,402,--,--,3579,161,--,3401
+H&P,90,2164,--,642,--,3,10920,1698,49,12583
+H&P (View-Only),4,391,--,561,--,--,4419,2545,187,2461
+Hospital Course,--,8,--,63,--,--,79,93,--,273
+Interim Summary,--,--,--,11,--,--,28,6,--,51
+Interval H&P Note,5,566,--,17,--,--,3658,822,36,4068
+Op Note,2,135,--,1,--,--,2526,1,1,286
+Procedures,--,122,--,38,--,--,252,14,--,323
+Progress Notes,44,4687,5,12795,36,2267,87130,14103,1205,24578
+Significant Event,--,13,--,10,--,--,48,11,--,94

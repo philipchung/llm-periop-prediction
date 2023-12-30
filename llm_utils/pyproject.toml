@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "llm-utils"
+version = "0.1.0"
+description = "Utilities for Large Language Models"
+authors = ["Philip Chung <philip.f.chung@gmail.com>"]
+readme = "README.md"
+packages = [{include = "llm_utils"}]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+pip = "^23.0.1"
+pandas = "^1.5.3"
+matplotlib = "^3.8.0"
+seaborn = "^0.13.0"
+jupyter = "^1.0.0"
+tqdm = "^4.64.1"
+ipywidgets = "^8.0.4"
+ipykernel = "^6.22.0"
+pyarrow = "^11.0.0"
+scipy = "^1.10.1"
+zstd = "^1.5.4.1"
+tiktoken = "^0.3.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

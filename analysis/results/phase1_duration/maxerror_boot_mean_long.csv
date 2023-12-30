@@ -1,0 +1,49 @@
+,prompt,length_group,value
+0,0-Shot | Notes,short,198.4952
+1,0-Shot | Summary,short,200.2628
+2,5-Shot | Summary,short,275.306
+3,10-Shot | Summary,short,239.7452
+4,20-Shot | Summary,short,242.416
+5,50-Shot | Summary,short,240.8468
+6,0-Shot CoT | Notes,short,203.8328
+7,0-Shot CoT | Summary,short,210.5848
+8,5-Shot CoT | Summary,short,212.8152
+9,10-Shot CoT | Summary,short,2011.6644
+10,20-Shot CoT | Summary,short,197.062
+11,50-Shot CoT | Summary,short,233.8176
+12,0-Shot | Notes,medium,237.8884
+13,0-Shot | Summary,medium,175.7468
+14,5-Shot | Summary,medium,301.944
+15,10-Shot | Summary,medium,298.7976
+16,20-Shot | Summary,medium,357.0188
+17,50-Shot | Summary,medium,295.276
+18,0-Shot CoT | Notes,medium,209.1864
+19,0-Shot CoT | Summary,medium,196.5796
+20,5-Shot CoT | Summary,medium,292.5204
+21,10-Shot CoT | Summary,medium,287.6108
+22,20-Shot CoT | Summary,medium,184.4312
+23,50-Shot CoT | Summary,medium,195.1828
+24,0-Shot | Notes,long,213.6212
+25,0-Shot | Summary,long,217.248
+26,5-Shot | Summary,long,284.1516
+27,10-Shot | Summary,long,265.7596
+28,20-Shot | Summary,long,215.06
+29,50-Shot | Summary,long,277.8732
+30,0-Shot CoT | Notes,long,225.4924
+31,0-Shot CoT | Summary,long,225.558
+32,5-Shot CoT | Summary,long,291.9232
+33,10-Shot CoT | Summary,long,260.75
+34,20-Shot CoT | Summary,long,285.3216
+35,50-Shot CoT | Summary,long,215.7784
+36,0-Shot | Notes,all,253.2236
+37,0-Shot | Summary,all,222.7048
+38,5-Shot | Summary,all,305.9916
+39,10-Shot | Summary,all,300.7952
+40,20-Shot | Summary,all,362.184
+41,50-Shot | Summary,all,318.2232
+42,0-Shot CoT | Notes,all,228.178
+43,0-Shot CoT | Summary,all,231.27
+44,5-Shot CoT | Summary,all,314.9368
+45,10-Shot CoT | Summary,all,1977.1552
+46,20-Shot CoT | Summary,all,286.6652
+47,50-Shot CoT | Summary,all,239.644

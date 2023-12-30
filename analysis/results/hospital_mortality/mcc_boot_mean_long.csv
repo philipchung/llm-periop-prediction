@@ -1,0 +1,49 @@
+,prompt,length_group,value
+0,0-Shot | Notes,short,0.4716202777750148
+1,0-Shot | Summary,short,0.46228337156096366
+2,5-Shot | Summary,short,0.5853621634801697
+3,10-Shot | Summary,short,0.5994606452728616
+4,20-Shot | Summary,short,0.6219162881963359
+5,50-Shot | Summary,short,0.619142377863993
+6,0-Shot CoT | Notes,short,0.4324629080715802
+7,0-Shot CoT | Summary,short,0.38439125126769125
+8,5-Shot CoT | Summary,short,0.5529184255510345
+9,10-Shot CoT | Summary,short,0.5340243738395414
+10,20-Shot CoT | Summary,short,0.48157622111327447
+11,50-Shot CoT | Summary,short,0.5440545913823341
+12,0-Shot | Notes,medium,0.60522401948386
+13,0-Shot | Summary,medium,0.5869923780901691
+14,5-Shot | Summary,medium,0.7869296328275375
+15,10-Shot | Summary,medium,0.7823971583236566
+16,20-Shot | Summary,medium,0.7710214567694448
+17,50-Shot | Summary,medium,0.7553590173749001
+18,0-Shot CoT | Notes,medium,0.44304271386017147
+19,0-Shot CoT | Summary,medium,0.5412601402004104
+20,5-Shot CoT | Summary,medium,0.7617960199788885
+21,10-Shot CoT | Summary,medium,0.7617586683972225
+22,20-Shot CoT | Summary,medium,0.7800744056663929
+23,50-Shot CoT | Summary,medium,0.7494606504106238
+24,0-Shot | Notes,long,0.5798501498760931
+25,0-Shot | Summary,long,0.6404822176800741
+26,5-Shot | Summary,long,0.7198858569328306
+27,10-Shot | Summary,long,0.7922698614215579
+28,20-Shot | Summary,long,0.7766884117397298
+29,50-Shot | Summary,long,0.7117964950183354
+30,0-Shot CoT | Notes,long,0.4382776095295724
+31,0-Shot CoT | Summary,long,0.5015064382428818
+32,5-Shot CoT | Summary,long,0.7229580508560052
+33,10-Shot CoT | Summary,long,0.77466628220164
+34,20-Shot CoT | Summary,long,0.7748571063523295
+35,50-Shot CoT | Summary,long,0.7573357979567515
+36,0-Shot | Notes,all,0.5606873502433615
+37,0-Shot | Summary,all,0.5768210340835878
+38,5-Shot | Summary,all,0.7026487383982172
+39,10-Shot | Summary,all,0.7299699180400152
+40,20-Shot | Summary,all,0.7283453592135157
+41,50-Shot | Summary,all,0.6996801907884858
+42,0-Shot CoT | Notes,all,0.4441291806534906
+43,0-Shot CoT | Summary,all,0.4872231548214427
+44,5-Shot CoT | Summary,all,0.6865432663170603
+45,10-Shot CoT | Summary,all,0.6987312474955192
+46,20-Shot CoT | Summary,all,0.6881766919363158
+47,50-Shot CoT | Summary,all,0.6909107847495762
