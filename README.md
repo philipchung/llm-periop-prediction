@@ -1,6 +1,6 @@
 # Large Language Model Capabilities in Perioperative Risk Prediction and Prognostication
 
-This repo contains code for "Large Language Model Capabilities in Perioperative Risk Prediction and Prognostication".
+This repo contains code for ["Large Language Model Capabilities in Perioperative Risk Prediction and Prognostication"](https://arxiv.org/abs/2401.01620).
 
 The goal of the study is to understand how well general-domain LLMs (e.g. GPT-4) can predict a patient's pre-operative illness severity (ASA Physical Status Classification) and likelihood of post-operative hospitalization/ICU admission/death using pre-procedure clinical notes as a representation of the patient and the procedure case booking information.  Both of these are derived from the electronic health record.  No other data from the electronic health record is used to make the prediction.
 
