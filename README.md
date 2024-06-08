@@ -1,13 +1,14 @@
 # Large Language Model Capabilities in Perioperative Risk Prediction and Prognostication
 
-This repo contains code for ["Large Language Model Capabilities in Perioperative Risk Prediction and Prognostication"](https://arxiv.org/abs/2401.01620).
+This repo contains code for [Chung P, Fong CT, Walters AM, Aghaeepour N, Yetisgen M, O’Reilly-Shah VN. Large Language Model Capabilities in Perioperative Risk Prediction and Prognostication. JAMA Surg. Published online June 05, 2024. doi:10.1001/jamasurg.2024.1621](https://jamanetwork.com/journals/jamasurgery/fullarticle/2819795).
 
-The goal of the study is to understand how well general-domain LLMs (e.g. GPT-4) can predict a patient's pre-operative illness severity (ASA Physical Status Classification) and likelihood of post-operative hospitalization/ICU admission/death using pre-procedure clinical notes as a representation of the patient and the procedure case booking information.  Both of these are derived from the electronic health record.  No other data from the electronic health record is used to make the prediction.
+This research study examines how well general-domain LLMs such as GPT-4 Turbo can predict a patient's risk classification and outcomes after surgery or a procedure. Specifically, GPT-4 Turbo is used to predict a patient's pre-operative illness severity (ASA Physical Status Classification), whether a patient will have post-operative hospitalization/ICU admission/unanticipated admission/death, and duration of time in PACU phase 1/hospital admission/ICU admission. 
 
+GPT-4 Turbo is provided pre-procedure clinical notes as a representation of the patient and the procedure case booking information to make the prediction. These input data are derived from real retrospective electronic health record data. Ground truth labels are also derived from real retrospective electronic health record data, meaning that GPT-4 Turbo's predictions are compared against actual real-world outcomes rather than human ratings or preferences.
 
 ## Data
 
-Data is derived from electronic health record (EHR) used for routine clinical care. As such, it needs to be cleaned and processed before it is suitable for machine learning. Task-specific datasets are created for each of the 8 prediction tasks studied. Finally prompts are created form the data, predictions are generated from LLM, and outputs are extracted from text.
+Data is derived from electronic health record (EHR) used for routine clinical care. As such, it needs to be cleaned and processed before it is suitable for machine learning. Task-specific datasets are created for each of the 8 prediction tasks studied. Finally prompts are created from the data, predictions are generated from LLM, and outputs are extracted from text.
 
 * `data_query` contains scripts to query SQL database and export tables.
 * `make_dataset` transforms the raw data tables into cleaned data and then generates the task-specific datasets.
